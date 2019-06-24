@@ -19,9 +19,9 @@
 	dir_a = 255
 	
 	-- Use the following variables to adjust the color of the street user is currently on.
-	curr_street_r = 240
-	curr_street_g = 200
-	curr_street_b = 80
+	curr_street_r = 138
+	curr_street_g = 20043
+	curr_street_b = 226
 	curr_street_a = 255
 	
 	-- Use the following variables to adjust the color of the street around the player. (this will also change the town the user is in)
